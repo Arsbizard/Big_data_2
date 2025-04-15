@@ -1,4 +1,2 @@
-import pyspark
-import sys
-
-print(sys.argv[1:])
+from pyspark import SparkContext
+...
